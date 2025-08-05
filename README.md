@@ -12,4 +12,4 @@ I'm Lukas 👨‍💻🌳 – a backend developer with nearly 10 years of experi
 - 📫 How to reach me:
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:richtluk@gmail.com)
   - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lukasrichterprogrammer/)
-- ⚡ Fun fact: Although I'm a backend developer, I'm curious to explore game development 🎮
+- ⚡ Fun fact: Although I'm a backend developer, I'm curious to explore game development! 🎮
